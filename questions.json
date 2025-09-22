@@ -1,0 +1,1402 @@
+{
+  "001": {
+    "question": "中秋节在农历的哪一天？",
+    "answer": "C",
+    "optionA": "正月十五",
+    "optionB": "五月初五",
+    "optionC": "八月十五"
+  },
+  "002": {
+    "question": "中秋节最代表性的食物是什么？",
+    "answer": "C",
+    "optionA": "饺子",
+    "optionB": "粽子",
+    "optionC": "月饼"
+  },
+  "003": {
+    "question": "传说中，月亮上住着谁？",
+    "answer": "B",
+    "optionA": "孙悟空",
+    "optionB": "嫦娥",
+    "optionC": "七仙女"
+  },
+  "004": {
+    "question": "嫦娥飞上月宫是因为偷吃了什么？",
+    "answer": "B",
+    "optionA": "月饼",
+    "optionB": "仙丹",
+    "optionC": "蟠桃"
+  },
+  "005": {
+    "question": "中秋节又被称为什么节？",
+    "answer": "B",
+    "optionA": "元宵节",
+    "optionB": "团圆节",
+    "optionC": "饺子节"
+  },
+  "006": {
+    "question": "除了月饼，中秋节还会吃什么应季水果？",
+    "answer": "B",
+    "optionA": "西瓜",
+    "optionB": "柚子",
+    "optionC": "苹果"
+  },
+  "007": {
+    "question": "传说中在月亮上砍树的人是谁？",
+    "answer": "C",
+    "optionA": "后羿",
+    "optionB": "玉兔",
+    "optionC": "吴刚"
+  },
+  "008": {
+    "question": "月饼最初是用来做什么的？",
+    "answer": "A",
+    "optionA": "祭拜月神的供品",
+    "optionB": "皇帝的早餐",
+    "optionC": "军队的干粮"
+  },
+  "009": {
+    "question": "'但愿人长久，千里共婵娟'是谁的名句？",
+    "answer": "B",
+    "optionA": "李白",
+    "optionB": "苏轼",
+    "optionC": "杜甫"
+  },
+  "010": {
+    "question": "月亮上陪伴嫦娥的动物是什么？",
+    "answer": "A",
+    "optionA": "玉兔",
+    "optionB": "金乌",
+    "optionC": "蟾蜍"
+  },
+  "011": {
+    "question": "'婵娟'在古代指代什么？",
+    "answer": "B",
+    "optionA": "美女",
+    "optionB": "月亮",
+    "optionC": "爱情"
+  },
+  "012": {
+    "question": "以下哪种馅料是传统月饼常见的？",
+    "answer": "B",
+    "optionA": "巧克力馅",
+    "optionB": "五仁馅",
+    "optionC": "冰淇淋馅"
+  },
+  "013": {
+    "question": "中秋节时，月亮是什么形状的？",
+    "answer": "B",
+    "optionA": "弯月",
+    "optionB": "满月",
+    "optionC": "月牙"
+  },
+  "014": {
+    "question": "后羿射日的故事和哪个节日相关？",
+    "answer": "B",
+    "optionA": "春节",
+    "optionB": "中秋节",
+    "optionC": "端午节"
+  },
+  "015": {
+    "question": "潮汐现象主要受什么天体影响？",
+    "answer": "B",
+    "optionA": "太阳",
+    "optionB": "月球",
+    "optionC": "火星"
+  },
+  "016": {
+    "question": "广式月饼的显著特点是？",
+    "answer": "B",
+    "optionA": "酥皮",
+    "optionB": "皮薄馅多",
+    "optionC": "硬皮"
+  },
+  "017": {
+    "question": "'月饼'一词最早源于哪个朝代？",
+    "answer": "B",
+    "optionA": "唐朝",
+    "optionB": "宋朝",
+    "optionC": "元朝"
+  },
+  "018": {
+    "question": "以下哪项不是中秋节习俗？",
+    "answer": "C",
+    "optionA": "赏月",
+    "optionB": "吃月饼",
+    "optionC": "赛龙舟"
+  },
+  "019": {
+    "question": "苏式月饼的皮是什么口感？",
+    "answer": "B",
+    "optionA": "硬皮",
+    "optionB": "酥皮",
+    "optionC": "软皮"
+  },
+  "020": {
+    "question": "传说中玉兔在月亮上捣什么？",
+    "answer": "B",
+    "optionA": "年糕",
+    "optionB": "长生不老药",
+    "optionC": "月饼"
+  },
+  "021": {
+    "question": "吃月饼时，搭配什么茶可以解腻？",
+    "answer": "B",
+    "optionA": "奶茶",
+    "optionB": "绿茶",
+    "optionC": "咖啡"
+  },
+  "022": {
+    "question": "以下哪个不是月饼的别称？",
+    "answer": "C",
+    "optionA": "胡饼",
+    "optionB": "月团",
+    "optionC": "年糕"
+  },
+  "023": {
+    "question": "古代皇帝有'春天祭日，秋天祭月'的礼制，'祭月'在哪个节气？",
+    "answer": "B",
+    "optionA": "秋分",
+    "optionB": "中秋",
+    "optionC": "冬至"
+  },
+  "024": {
+    "question": "北京地区流行的传统月饼种类是？",
+    "answer": "B",
+    "optionA": "广式月饼",
+    "optionB": "京式月饼",
+    "optionC": "苏式月饼"
+  },
+  "025": {
+    "question": "冰皮月饼的皮主要是由什么做的？",
+    "answer": "B",
+    "optionA": "面粉",
+    "optionB": "糯米",
+    "optionC": "黄油"
+  },
+  "026": {
+    "question": "'天狗食月'是古人对什么现象的描述？",
+    "answer": "B",
+    "optionA": "日食",
+    "optionB": "月食",
+    "optionC": "流星"
+  },
+  "027": {
+    "question": "以下哪种活动，与中秋节无关？",
+    "answer": "C",
+    "optionA": "燃灯",
+    "optionB": "猜灯谜",
+    "optionC": "插艾草"
+  },
+  "028": {
+    "question": "'海上生明月，天涯共此时'的作者是？",
+    "answer": "B",
+    "optionA": "杜甫",
+    "optionB": "张九龄",
+    "optionC": "王维"
+  },
+  "029": {
+    "question": "月饼按产地分，不包括以下哪种？",
+    "answer": "C",
+    "optionA": "广式",
+    "optionB": "苏式",
+    "optionC": "川式"
+  },
+  "030": {
+    "question": "中秋节最早起源于哪个时期？",
+    "answer": "A",
+    "optionA": "周朝",
+    "optionB": "秦朝",
+    "optionC": "汉朝"
+  },
+  "031": {
+    "question": "月饼象征着什么？",
+    "answer": "C",
+    "optionA": "财富",
+    "optionB": "健康",
+    "optionC": "团圆"
+  },
+  "032": {
+    "question": "中秋节的主要活动不包括？",
+    "answer": "B",
+    "optionA": "赏月",
+    "optionB": "扫墓",
+    "optionC": "吃月饼"
+  },
+  "033": {
+    "question": "'小时不识月，呼作白玉盘'是谁的诗句？",
+    "answer": "A",
+    "optionA": "李白",
+    "optionB": "杜甫",
+    "optionC": "白居易"
+  },
+  "034": {
+    "question": "以下哪个不是月饼的馅料？",
+    "answer": "C",
+    "optionA": "豆沙",
+    "optionB": "莲蓉",
+    "optionC": "芝麻糊"
+  },
+  "035": {
+    "question": "中秋节是我国的第几大传统节日？",
+    "answer": "B",
+    "optionA": "第一",
+    "optionB": "第二",
+    "optionC": "第三"
+  },
+  "036": {
+    "question": "'今夜月明人尽望，不知秋思落谁家'出自哪位诗人？",
+    "answer": "C",
+    "optionA": "李白",
+    "optionB": "杜甫",
+    "optionC": "王建"
+  },
+  "037": {
+    "question": "以下哪个地区的月饼以火腿月饼闻名？",
+    "answer": "C",
+    "optionA": "广东",
+    "optionB": "江苏",
+    "optionC": "云南"
+  },
+  "038": {
+    "question": "中秋节在哪一年被列为国家法定节假日？",
+    "answer": "B",
+    "optionA": "2006年",
+    "optionB": "2008年",
+    "optionC": "2010年"
+  },
+  "039": {
+    "question": "'明月几时有，把酒问青天'出自哪首词？",
+    "answer": "A",
+    "optionA": "水调歌头",
+    "optionB": "望明月",
+    "optionC": "月夜"
+  },
+  "040": {
+    "question": "月饼的保质期一般是多久？",
+    "answer": "B",
+    "optionA": "1-2天",
+    "optionB": "1-2个月",
+    "optionC": "半年"
+  },
+  "041": {
+    "question": "以下哪个不是中秋节的别称？",
+    "answer": "C",
+    "optionA": "仲秋节",
+    "optionB": "八月节",
+    "optionC": "登高节"
+  },
+  "042": {
+    "question": "传统广式月饼的饼皮主要由什么制成？",
+    "answer": "A",
+    "optionA": "面粉、糖浆、油",
+    "optionB": "糯米粉、糖、水",
+    "optionC": "面粉、黄油、糖"
+  },
+  "043": {
+    "question": "'中秋'一词最早见于哪部古籍？",
+    "answer": "B",
+    "optionA": "《诗经》",
+    "optionB": "《周礼》",
+    "optionC": "《论语》"
+  },
+  "044": {
+    "question": "中秋节吃月饼的习俗始于哪个朝代？",
+    "answer": "B",
+    "optionA": "唐朝",
+    "optionB": "明朝",
+    "optionC": "清朝"
+  },
+  "045": {
+    "question": "以下哪个不是月饼的形状？",
+    "answer": "C",
+    "optionA": "圆形",
+    "optionB": "方形",
+    "optionC": "三角形"
+  },
+  "046": {
+    "question": "'月是故乡明'出自哪位诗人？",
+    "answer": "B",
+    "optionA": "李白",
+    "optionB": "杜甫",
+    "optionC": "白居易"
+  },
+  "047": {
+    "question": "中秋节在古代又被称为？",
+    "answer": "A",
+    "optionA": "祭月节",
+    "optionB": "团圆节",
+    "optionC": "赏月节"
+  },
+  "048": {
+    "question": "以下哪个国家也有过中秋节的习俗？",
+    "answer": "B",
+    "optionA": "印度",
+    "optionB": "韩国",
+    "optionC": "巴西"
+  },
+  "049": {
+    "question": "月饼上的花纹一般代表什么？",
+    "answer": "C",
+    "optionA": "吉祥如意",
+    "optionB": "五谷丰登",
+    "optionC": "团圆美满"
+  },
+  "050": {
+    "question": "'嫦娥奔月'的故事最早记载于哪部著作？",
+    "answer": "A",
+    "optionA": "《淮南子》",
+    "optionB": "《山海经》",
+    "optionC": "《诗经》"
+  },
+  "051": {
+    "question": "以下哪种月饼不属于传统月饼？",
+    "answer": "C",
+    "optionA": "五仁月饼",
+    "optionB": "莲蓉月饼",
+    "optionC": "冰淇淋月饼"
+  },
+  "052": {
+    "question": "中秋节的月相是什么？",
+    "answer": "C",
+    "optionA": "新月",
+    "optionB": "上弦月",
+    "optionC": "满月"
+  },
+  "053": {
+    "question": "'海上生明月，天涯共此时'写于哪个节日？",
+    "answer": "B",
+    "optionA": "春节",
+    "optionB": "中秋节",
+    "optionC": "元宵节"
+  },
+  "054": {
+    "question": "以下哪个不是中秋节的传统习俗？",
+    "answer": "C",
+    "optionA": "吃月饼",
+    "optionB": "赏月",
+    "optionC": "贴春联"
+  },
+  "055": {
+    "question": "月饼按口味来分，不包括以下哪种？",
+    "answer": "C",
+    "optionA": "甜味月饼",
+    "optionB": "咸味月饼",
+    "optionC": "辣味月饼"
+  },
+  "056": {
+    "question": "'露从今夜白，月是故乡明'出自哪位诗人？",
+    "answer": "B",
+    "optionA": "李白",
+    "optionB": "杜甫",
+    "optionC": "王维"
+  },
+  "057": {
+    "question": "中秋节在东南亚国家也很流行，以下哪个东南亚国家不过中秋节？",
+    "answer": "C",
+    "optionA": "新加坡",
+    "optionB": "马来西亚",
+    "optionC": "印度尼西亚"
+  },
+  "058": {
+    "question": "以下哪个不是月饼的制作材料？",
+    "answer": "C",
+    "optionA": "面粉",
+    "optionB": "糖",
+    "optionC": "大米"
+  },
+  "059": {
+    "question": "'但愿人长久，千里共婵娟'中的'婵娟'指的是什么？",
+    "answer": "B",
+    "optionA": "美女",
+    "optionB": "月亮",
+    "optionC": "嫦娥"
+  },
+  "060": {
+    "question": "中秋节的传统色彩是什么？",
+    "answer": "A",
+    "optionA": "红色和金色",
+    "optionB": "绿色和蓝色",
+    "optionC": "紫色和粉色"
+  },
+  "061": {
+    "question": "以下哪个不是中秋节的传说故事？",
+    "answer": "C",
+    "optionA": "嫦娥奔月",
+    "optionB": "吴刚伐桂",
+    "optionC": "牛郎织女"
+  },
+  "062": {
+    "question": "月饼的大小通常以什么为单位？",
+    "answer": "B",
+    "optionA": "克",
+    "optionB": "两",
+    "optionC": "个"
+  },
+  "063": {
+    "question": "'小时不识月，呼作白玉盘'出自哪首诗？",
+    "answer": "A",
+    "optionA": "《古朗月行》",
+    "optionB": "《静夜思》",
+    "optionC": "《望庐山瀑布》"
+  },
+  "064": {
+    "question": "以下哪个地区的月饼以酥皮闻名？",
+    "answer": "B",
+    "optionA": "广东",
+    "optionB": "苏州",
+    "optionC": "北京"
+  },
+  "065": {
+    "question": "中秋节的灯笼通常是什么形状？",
+    "answer": "A",
+    "optionA": "圆形",
+    "optionB": "方形",
+    "optionC": "三角形"
+  },
+  "066": {
+    "question": "'明月几时有，把酒问青天'的作者是谁？",
+    "answer": "B",
+    "optionA": "李白",
+    "optionB": "苏轼",
+    "optionC": "白居易"
+  },
+  "067": {
+    "question": "以下哪个不是月饼的包装材料？",
+    "answer": "C",
+    "optionA": "纸盒",
+    "optionB": "铁盒",
+    "optionC": "塑料袋"
+  },
+  "068": {
+    "question": "中秋节在哪个朝代开始成为固定节日？",
+    "answer": "B",
+    "optionA": "唐朝",
+    "optionB": "宋朝",
+    "optionC": "元朝"
+  },
+  "069": {
+    "question": "'月有阴晴圆缺'出自哪首词？",
+    "answer": "A",
+    "optionA": "《水调歌头》",
+    "optionB": "《望江南》",
+    "optionC": "《相见欢》"
+  },
+  "070": {
+    "question": "以下哪个不是中秋节的应节食品？",
+    "answer": "C",
+    "optionA": "月饼",
+    "optionB": "柚子",
+    "optionC": "粽子"
+  },
+  "071": {
+    "question": "中秋节的月亮为什么特别圆？",
+    "answer": "B",
+    "optionA": "距离地球最近",
+    "optionB": "太阳、地球、月球几乎在同一直线上",
+    "optionC": "月球本身发光"
+  },
+  "072": {
+    "question": "'今夜月明人尽望，不知秋思落谁家'写于哪个节日？",
+    "answer": "B",
+    "optionA": "元宵节",
+    "optionB": "中秋节",
+    "optionC": "春节"
+  },
+  "073": {
+    "question": "以下哪个不是月饼的品牌？",
+    "answer": "C",
+    "optionA": "美心",
+    "optionB": "荣华",
+    "optionC": "稻香村"
+  },
+  "074": {
+    "question": "中秋节在香港被列为公众假期吗？",
+    "answer": "A",
+    "optionA": "是",
+    "optionB": "否",
+    "optionC": "不确定"
+  },
+  "075": {
+    "question": "'人有悲欢离合，月有阴晴圆缺'的作者是谁？",
+    "answer": "B",
+    "optionA": "李白",
+    "optionB": "苏轼",
+    "optionC": "杜甫"
+  },
+  "076": {
+    "question": "以下哪个不是月饼的保存方法？",
+    "answer": "C",
+    "optionA": "常温保存",
+    "optionB": "冷藏保存",
+    "optionC": "冷冻保存"
+  },
+  "077": {
+    "question": "中秋节在台湾又被称为什么？",
+    "answer": "B",
+    "optionA": "团圆节",
+    "optionB": "八月节",
+    "optionC": "月饼节"
+  },
+  "078": {
+    "question": "'海上生明月，天涯共此时'的作者是谁？",
+    "answer": "B",
+    "optionA": "李白",
+    "optionB": "张九龄",
+    "optionC": "王维"
+  },
+  "079": {
+    "question": "以下哪个不是月饼的馅料创新？",
+    "answer": "C",
+    "optionA": "抹茶月饼",
+    "optionB": "巧克力月饼",
+    "optionC": "五仁月饼"
+  },
+  "080": {
+    "question": "中秋节的灯笼通常用什么材料制作？",
+    "answer": "A",
+    "optionA": "纸",
+    "optionB": "塑料",
+    "optionC": "金属"
+  },
+  "081": {
+    "question": "以下哪个不是中秋节的传统活动？",
+    "answer": "C",
+    "optionA": "赏月",
+    "optionB": "吃月饼",
+    "optionC": "放鞭炮"
+  },
+  "082": {
+    "question": "'露从今夜白，月是故乡明'写于哪个节气？",
+    "answer": "B",
+    "optionA": "立春",
+    "optionB": "白露",
+    "optionC": "秋分"
+  },
+  "083": {
+    "question": "以下哪个地区的月饼以椰蓉月饼闻名？",
+    "answer": "A",
+    "optionA": "海南",
+    "optionB": "广东",
+    "optionC": "福建"
+  },
+  "084": {
+    "question": "中秋节的起源与哪个天体有关？",
+    "answer": "B",
+    "optionA": "太阳",
+    "optionB": "月亮",
+    "optionC": "星星"
+  },
+  "085": {
+    "question": "'月上柳梢头，人约黄昏后'写于哪个节日？",
+    "answer": "A",
+    "optionA": "元宵节",
+    "optionB": "中秋节",
+    "optionC": "七夕节"
+  },
+  "086": {
+    "question": "以下哪个不是月饼的制作工艺？",
+    "answer": "C",
+    "optionA": "烘焙",
+    "optionB": "蒸制",
+    "optionC": "油炸"
+  },
+  "087": {
+    "question": "'举头望明月，低头思故乡'出自哪位诗人？",
+    "answer": "A",
+    "optionA": "李白",
+    "optionB": "杜甫",
+    "optionC": "白居易"
+  },
+  "088": {
+    "question": "中秋节在澳门被列为公众假期吗？",
+    "answer": "A",
+    "optionA": "是",
+    "optionB": "否",
+    "optionC": "不确定"
+  },
+  "089": {
+    "question": "'明月别枝惊鹊，清风半夜鸣蝉'写于哪个季节？",
+    "answer": "B",
+    "optionA": "春季",
+    "optionB": "夏季",
+    "optionC": "秋季"
+  },
+  "090": {
+    "question": "以下哪个不是月饼的健康食用建议？",
+    "answer": "C",
+    "optionA": "适量食用",
+    "optionB": "搭配茶水",
+    "optionC": "空腹食用"
+  },
+  "091": {
+    "question": "中秋节的月亮被称为？",
+    "answer": "B",
+    "optionA": "新月",
+    "optionB": "满月",
+    "optionC": "残月"
+  },
+  "092": {
+    "question": "'海上明月共潮生'出自哪首诗？",
+    "answer": "A",
+    "optionA": "《春江花月夜》",
+    "optionB": "《望江南》",
+    "optionC": "《相见欢》"
+  },
+  "093": {
+    "question": "以下哪个不是月饼的形状创新？",
+    "answer": "C",
+    "optionA": "卡通形状",
+    "optionB": "花朵形状",
+    "optionC": "圆形"
+  },
+  "094": {
+    "question": "中秋节在我国的文化意义是什么？",
+    "answer": "C",
+    "optionA": "纪念先人",
+    "optionB": "驱邪避灾",
+    "optionC": "团圆和睦"
+  },
+  "095": {
+    "question": "'月明星稀，乌鹊南飞'出自哪位诗人？",
+    "answer": "B",
+    "optionA": "李白",
+    "optionB": "曹操",
+    "optionC": "杜甫"
+  },
+  "096": {
+    "question": "以下哪个不是月饼的口味分类？",
+    "answer": "C",
+    "optionA": "甜月饼",
+    "optionB": "咸月饼",
+    "optionC": "辣月饼"
+  },
+  "097": {
+    "question": "中秋节在韩国被称为什么？",
+    "answer": "B",
+    "optionA": "中秋节",
+    "optionB": "秋夕",
+    "optionC": "仲秋"
+  },
+  "098": {
+    "question": "'小时不识月，呼作白玉盘'写的是什么时候的月亮？",
+    "answer": "B",
+    "optionA": "新月",
+    "optionB": "满月",
+    "optionC": "残月"
+  },
+  "099": {
+    "question": "以下哪个不是月饼的包装设计元素？",
+    "answer": "C",
+    "optionA": "月亮图案",
+    "optionB": "团圆字样",
+    "optionC": "龙的图案"
+  },
+  "100": {
+    "question": "中秋节的传统时间是什么时候？",
+    "answer": "B",
+    "optionA": "白天",
+    "optionB": "晚上",
+    "optionC": "早晨"
+  },
+  "101": {
+    "question": "以下哪个不是中秋节的饮食习俗？",
+    "answer": "C",
+    "optionA": "吃月饼",
+    "optionB": "吃柚子",
+    "optionC": "吃汤圆"
+  },
+  "102": {
+    "question": "'明月几时有，把酒问青天'写于哪个节日？",
+    "answer": "B",
+    "optionA": "元宵节",
+    "optionB": "中秋节",
+    "optionC": "春节"
+  },
+  "103": {
+    "question": "以下哪个地区的月饼以云腿月饼闻名？",
+    "answer": "A",
+    "optionA": "云南",
+    "optionB": "广东",
+    "optionC": "江苏"
+  },
+  "104": {
+    "question": "中秋节的月亮为什么被称为'满月'？",
+    "answer": "B",
+    "optionA": "最明亮",
+    "optionB": "圆形，整个月面都能看到",
+    "optionC": "最大"
+  },
+  "105": {
+    "question": "'月出惊山鸟，时鸣春涧中'写于哪个季节？",
+    "answer": "A",
+    "optionA": "春季",
+    "optionB": "夏季",
+    "optionC": "秋季"
+  },
+  "106": {
+    "question": "以下哪个不是月饼的成分？",
+    "answer": "C",
+    "optionA": "面粉",
+    "optionB": "糖",
+    "optionC": "蔬菜"
+  },
+  "107": {
+    "question": "中秋节在日本被称为什么？",
+    "answer": "B",
+    "optionA": "中秋节",
+    "optionB": "十五夜",
+    "optionC": "仲秋"
+  },
+  "108": {
+    "question": "'海上生明月，天涯共此时'表达了什么情感？",
+    "answer": "C",
+    "optionA": "思乡之情",
+    "optionB": "爱国之情",
+    "optionC": "思念亲人之情"
+  },
+  "109": {
+    "question": "以下哪个不是月饼的创新口味？",
+    "answer": "C",
+    "optionA": "冰淇淋月饼",
+    "optionB": "巧克力月饼",
+    "optionC": "五仁月饼"
+  },
+  "110": {
+    "question": "中秋节的灯笼有什么寓意？",
+    "answer": "C",
+    "optionA": "驱邪避灾",
+    "optionB": "招财进宝",
+    "optionC": "光明团圆"
+  },
+  "111": {
+    "question": "以下哪个不是中秋节的传说人物？",
+    "answer": "C",
+    "optionA": "嫦娥",
+    "optionB": "吴刚",
+    "optionC": "夸父"
+  },
+  "112": {
+    "question": "'月落乌啼霜满天，江枫渔火对愁眠'写于哪个季节？",
+    "answer": "C",
+    "optionA": "春季",
+    "optionB": "夏季",
+    "optionC": "秋季"
+  },
+  "113": {
+    "question": "以下哪个地区的月饼以鲜肉月饼闻名？",
+    "answer": "B",
+    "optionA": "广东",
+    "optionB": "上海",
+    "optionC": "北京"
+  },
+  "114": {
+    "question": "中秋节的月相周期是多少天？",
+    "answer": "B",
+    "optionA": "27天",
+    "optionB": "29.5天",
+    "optionC": "30天"
+  },
+  "115": {
+    "question": "'明月松间照，清泉石上流'写于哪个季节？",
+    "answer": "C",
+    "optionA": "春季",
+    "optionB": "夏季",
+    "optionC": "秋季"
+  },
+  "116": {
+    "question": "以下哪个不是月饼的储存注意事项？",
+    "answer": "C",
+    "optionA": "避免阳光直射",
+    "optionB": "保持干燥",
+    "optionC": "高温保存"
+  },
+  "117": {
+    "question": "中秋节在越南被称为什么？",
+    "answer": "A",
+    "optionA": "Tết Trung Thu",
+    "optionB": "秋夕",
+    "optionC": "十五夜"
+  },
+  "118": {
+    "question": "'小时不识月，呼作白玉盘'用了什么修辞手法？",
+    "answer": "B",
+    "optionA": "拟人",
+    "optionB": "比喻",
+    "optionC": "夸张"
+  },
+  "119": {
+    "question": "以下哪个不是月饼的销售季节？",
+    "answer": "C",
+    "optionA": "农历七月",
+    "optionB": "农历八月",
+    "optionC": "农历九月"
+  },
+  "120": {
+    "question": "中秋节的传统装饰是什么？",
+    "answer": "A",
+    "optionA": "灯笼",
+    "optionB": "春联",
+    "optionC": "窗花"
+  },
+  "121": {
+    "question": "以下哪个不是中秋节的庆祝活动？",
+    "answer": "C",
+    "optionA": "赏月晚会",
+    "optionB": "月饼品尝会",
+    "optionC": "龙舟比赛"
+  },
+  "122": {
+    "question": "'但愿人长久，千里共婵娟'表达了什么愿望？",
+    "answer": "C",
+    "optionA": "升官发财",
+    "optionB": "健康长寿",
+    "optionC": "亲人团圆"
+  },
+  "123": {
+    "question": "以下哪个地区的月饼以五仁月饼闻名？",
+    "answer": "B",
+    "optionA": "广东",
+    "optionB": "北京",
+    "optionC": "江苏"
+  },
+  "124": {
+    "question": "中秋节的月亮为什么看起来特别大？",
+    "answer": "B",
+    "optionA": "距离地球最近",
+    "optionB": "视觉错觉",
+    "optionC": "月球本身变大"
+  },
+  "125": {
+    "question": "'月上柳梢头，人约黄昏后'写的是什么场景？",
+    "answer": "A",
+    "optionA": "情人约会",
+    "optionB": "朋友聚会",
+    "optionC": "家人团聚"
+  },
+  "126": {
+    "question": "以下哪个不是月饼的制作工具？",
+    "answer": "C",
+    "optionA": "月饼模子",
+    "optionB": "烤箱",
+    "optionC": "擀面杖"
+  },
+  "127": {
+    "question": "中秋节在马来西亚被称为？",
+    "answer": "B",
+    "optionA": "中秋节",
+    "optionB": "Mid-Autumn Festival",
+    "optionC": "秋夕"
+  },
+  "128": {
+    "question": "'海上生明月，天涯共此时'中的'此时'指的是什么时候？",
+    "answer": "B",
+    "optionA": "早晨",
+    "optionB": "夜晚",
+    "optionC": "黄昏"
+  },
+  "129": {
+    "question": "以下哪个不是月饼的包装类型？",
+    "answer": "C",
+    "optionA": "礼盒装",
+    "optionB": "散装",
+    "optionC": "瓶装"
+  },
+  "130": {
+    "question": "中秋节的传统礼品是什么？",
+    "answer": "A",
+    "optionA": "月饼礼盒",
+    "optionB": "水果礼盒",
+    "optionC": "鲜花礼盒"
+  },
+  "131": {
+    "question": "以下哪个不是中秋节的文化内涵？",
+    "answer": "C",
+    "optionA": "团圆",
+    "optionB": "思乡",
+    "optionC": "驱邪"
+  },
+  "132": {
+    "question": "'露从今夜白，月是故乡明'表达了什么情感？",
+    "answer": "B",
+    "optionA": "爱国之情",
+    "optionB": "思乡之情",
+    "optionC": "爱情"
+  },
+  "133": {
+    "question": "以下哪个地区的月饼以莲蓉月饼闻名？",
+    "answer": "A",
+    "optionA": "广东",
+    "optionB": "江苏",
+    "optionC": "浙江"
+  },
+  "134": {
+    "question": "中秋节的月亮升起的时间是？",
+    "answer": "B",
+    "optionA": "早晨",
+    "optionB": "傍晚",
+    "optionC": "深夜"
+  },
+  "135": {
+    "question": "'明月松间照，清泉石上流'出自哪首诗？",
+    "answer": "B",
+    "optionA": "《山居秋暝》",
+    "optionB": "《鹿柴》",
+    "optionC": "《鸟鸣涧》"
+  },
+  "136": {
+    "question": "以下哪个不是月饼的营养成分？",
+    "answer": "C",
+    "optionA": "碳水化合物",
+    "optionB": "脂肪",
+    "optionC": "纤维素"
+  },
+  "137": {
+    "question": "中秋节在新加坡被称为？",
+    "answer": "B",
+    "optionA": "中秋节",
+    "optionB": "Mid-Autumn Festival",
+    "optionC": "秋夕"
+  },
+  "138": {
+    "question": "'小时不识月，呼作白玉盘'中的'白玉盘'指的是什么？",
+    "answer": "B",
+    "optionA": "月亮",
+    "optionB": "白玉做成的盘子",
+    "optionC": "太阳"
+  },
+  "139": {
+    "question": "以下哪个不是月饼的购买建议？",
+    "answer": "C",
+    "optionA": "选择正规厂家",
+    "optionB": "查看保质期",
+    "optionC": "选择最贵的"
+  },
+  "140": {
+    "question": "中秋节的传统音乐是什么？",
+    "answer": "A",
+    "optionA": "中秋赏月曲",
+    "optionB": "春节序曲",
+    "optionC": "端午竞渡曲"
+  },
+  "141": {
+    "question": "以下哪个不是中秋节的诗词主题？",
+    "answer": "C",
+    "optionA": "思乡",
+    "optionB": "团圆",
+    "optionC": "战争"
+  },
+  "142": {
+    "question": "'但愿人长久，千里共婵娟'中的'人长久'指的是什么？",
+    "answer": "B",
+    "optionA": "寿命长",
+    "optionB": "亲人健康长寿",
+    "optionC": "事业长久"
+  },
+  "143": {
+    "question": "以下哪个地区的月饼以豆沙月饼闻名？",
+    "answer": "B",
+    "optionA": "广东",
+    "optionB": "上海",
+    "optionC": "北京"
+  },
+  "144": {
+    "question": "中秋节的月亮什么时候最圆？",
+    "answer": "B",
+    "optionA": "农历八月十五早晨",
+    "optionB": "农历八月十五晚上",
+    "optionC": "农历八月十六晚上"
+  },
+  "145": {
+    "question": "'月落乌啼霜满天，江枫渔火对愁眠'出自哪首诗？",
+    "answer": "A",
+    "optionA": "《枫桥夜泊》",
+    "optionB": "《静夜思》",
+    "optionC": "《望庐山瀑布》"
+  },
+  "146": {
+    "question": "以下哪个不是月饼的食用方法？",
+    "answer": "C",
+    "optionA": "直接食用",
+    "optionB": "加热后食用",
+    "optionC": "冷冻后食用"
+  },
+  "147": {
+    "question": "中秋节在泰国被称为什么？",
+    "answer": "B",
+    "optionA": "中秋节",
+    "optionB": "เทศกาลไหว้พระจันทร์",
+    "optionC": "秋夕"
+  },
+  "148": {
+    "question": "'海上生明月，天涯共此时'中的'天涯'指的是什么？",
+    "answer": "B",
+    "optionA": "天边",
+    "optionB": "遥远的地方",
+    "optionC": "海边"
+  },
+  "149": {
+    "question": "以下哪个不是月饼的制作步骤？",
+    "answer": "C",
+    "optionA": "和面",
+    "optionB": "包馅",
+    "optionC": "发酵"
+  },
+  "150": {
+    "question": "中秋节的传统游戏是什么？",
+    "answer": "A",
+    "optionA": "猜灯谜",
+    "optionB": "放风筝",
+    "optionC": "踢毽子"
+  },
+  "151": {
+    "question": "以下哪个不是中秋节的传说主题？",
+    "answer": "C",
+    "optionA": "爱情",
+    "optionB": "神话",
+    "optionC": "历史"
+  },
+  "152": {
+    "question": "'露从今夜白，月是故乡明'中的'露'指的是什么？",
+    "answer": "B",
+    "optionA": "露水",
+    "optionB": "白露节气",
+    "optionC": "雨水"
+  },
+  "153": {
+    "question": "以下哪个地区的月饼以枣泥月饼闻名？",
+    "answer": "B",
+    "optionA": "广东",
+    "optionB": "北京",
+    "optionC": "江苏"
+  },
+  "154": {
+    "question": "中秋节的月亮为什么会有阴晴圆缺？",
+    "answer": "B",
+    "optionA": "月球本身的变化",
+    "optionB": "月球绕地球公转",
+    "optionC": "地球绕太阳公转"
+  },
+  "155": {
+    "question": "'明月几时有，把酒问青天'中的'酒'指的是什么？",
+    "answer": "A",
+    "optionA": "白酒",
+    "optionB": "红酒",
+    "optionC": "黄酒"
+  },
+  "156": {
+    "question": "以下哪个不是月饼的常见馅料？",
+    "answer": "C",
+    "optionA": "豆沙",
+    "optionB": "莲蓉",
+    "optionC": "草莓"
+  },
+  "157": {
+    "question": "中秋节在菲律宾被称为什么？",
+    "answer": "B",
+    "optionA": "中秋节",
+    "optionB": "Mid-Autumn Festival",
+    "optionC": "秋夕"
+  },
+  "158": {
+    "question": "'小时不识月，呼作白玉盘'中的'小时'指的是什么时候？",
+    "answer": "B",
+    "optionA": "小时候",
+    "optionB": "小时候的某个时间",
+    "optionC": "早晨"
+  },
+  "159": {
+    "question": "以下哪个不是月饼的保存期限？",
+    "answer": "C",
+    "optionA": "15天",
+    "optionB": "30天",
+    "optionC": "一年"
+  },
+  "160": {
+    "question": "中秋节的传统舞蹈是什么？",
+    "answer": "A",
+    "optionA": "嫦娥舞",
+    "optionB": "龙舞",
+    "optionC": "狮舞"
+  },
+  "161": {
+    "question": "以下哪个不是中秋节的文化象征？",
+    "answer": "C",
+    "optionA": "月亮",
+    "optionB": "月饼",
+    "optionC": "菊花"
+  },
+  "162": {
+    "question": "'但愿人长久，千里共婵娟'中的'千里'指的是什么？",
+    "answer": "B",
+    "optionA": "一千里路",
+    "optionB": "遥远的距离",
+    "optionC": "很多里路"
+  },
+  "163": {
+    "question": "以下哪个地区的月饼以奶黄月饼闻名？",
+    "answer": "A",
+    "optionA": "香港",
+    "optionB": "台湾",
+    "optionC": "澳门"
+  },
+  "164": {
+    "question": "中秋节的月亮与地球的距离是多少？",
+    "answer": "B",
+    "optionA": "约38万公里",
+    "optionB": "约38万公里到40万公里之间",
+    "optionC": "约40万公里"
+  },
+  "165": {
+    "question": "'海上生明月，天涯共此时'中的'海上'指的是什么？",
+    "answer": "B",
+    "optionA": "大海上",
+    "optionB": "海边",
+    "optionC": "海面上"
+  },
+  "166": {
+    "question": "以下哪个不是月饼的制作原料？",
+    "answer": "C",
+    "optionA": "面粉",
+    "optionB": "糖",
+    "optionC": "水果"
+  },
+  "167": {
+    "question": "中秋节在印尼被称为什么？",
+    "answer": "B",
+    "optionA": "中秋节",
+    "optionB": "Festival Mid-Autumn",
+    "optionC": "秋夕"
+  },
+  "168": {
+    "question": "'露从今夜白，月是故乡明'中的'月'指的是什么？",
+    "answer": "B",
+    "optionA": "月亮",
+    "optionB": "故乡的月亮",
+    "optionC": "异乡的月亮"
+  },
+  "169": {
+    "question": "以下哪个不是月饼的品牌故事？",
+    "answer": "C",
+    "optionA": "传统老字号",
+    "optionB": "创新品牌",
+    "optionC": "外国品牌"
+  },
+  "170": {
+    "question": "中秋节的传统儿歌是什么？",
+    "answer": "A",
+    "optionA": "《爷爷为我打月饼》",
+    "optionB": "《春节童谣》",
+    "optionC": "《端午节儿歌》"
+  },
+  "171": {
+    "question": "中秋节的月亮代表什么情感？",
+    "answer": "C",
+    "optionA": "快乐",
+    "optionB": "悲伤",
+    "optionC": "思念"
+  },
+  "172": {
+    "question": "中秋节为什么要吃月饼？",
+    "answer": "B",
+    "optionA": "因为月饼好吃",
+    "optionB": "象征团圆",
+    "optionC": "传统习惯"
+  },
+  "173": {
+    "question": "'中秋'中的'中'是什么意思？",
+    "answer": "B",
+    "optionA": "中间",
+    "optionB": "农历八月中旬",
+    "optionC": "中等"
+  },
+  "174": {
+    "question": "以下哪个不是月饼的常见品牌？",
+    "answer": "C",
+    "optionA": "美心",
+    "optionB": "荣华",
+    "optionC": "洽洽"
+  },
+  "175": {
+    "question": "中秋节的月亮升起的方向是？",
+    "answer": "B",
+    "optionA": "东方",
+    "optionB": "东南方",
+    "optionC": "西南方"
+  },
+  "176": {
+    "question": "以下哪个不是中秋节的祝福语？",
+    "answer": "C",
+    "optionA": "中秋快乐",
+    "optionB": "花好月圆",
+    "optionC": "恭喜发财"
+  },
+  "177": {
+    "question": "月饼礼盒通常会搭配什么？",
+    "answer": "B",
+    "optionA": "茶叶",
+    "optionB": "茶具",
+    "optionC": "糖果"
+  },
+  "178": {
+    "question": "'床前明月光，疑是地上霜'写的是什么时候的月亮？",
+    "answer": "B",
+    "optionA": "新月",
+    "optionB": "满月",
+    "optionC": "残月"
+  },
+  "179": {
+    "question": "以下哪个不是中秋节的应节活动？",
+    "answer": "C",
+    "optionA": "赏月",
+    "optionB": "吃月饼",
+    "optionC": "登高"
+  },
+  "180": {
+    "question": "中秋节的月亮为什么被称为'玉兔'？",
+    "answer": "A",
+    "optionA": "传说中有玉兔在月亮上",
+    "optionB": "月亮的形状像兔子",
+    "optionC": "古代皇帝的象征"
+  },
+  "181": {
+    "question": "以下哪个不是月饼的制作工艺？",
+    "answer": "C",
+    "optionA": "烘焙",
+    "optionB": "蒸制",
+    "optionC": "烧烤"
+  },
+  "182": {
+    "question": "'海上生明月，天涯共此时'的'共'字表达了什么？",
+    "answer": "B",
+    "optionA": "共同拥有",
+    "optionB": "共同欣赏",
+    "optionC": "共同分享"
+  },
+  "183": {
+    "question": "以下哪个不是月饼的常见馅料？",
+    "answer": "C",
+    "optionA": "芝麻",
+    "optionB": "红豆沙",
+    "optionC": "巧克力"
+  },
+  "184": {
+    "question": "中秋节的月亮与哪个节气相近？",
+    "answer": "B",
+    "optionA": "白露",
+    "optionB": "秋分",
+    "optionC": "寒露"
+  },
+  "185": {
+    "question": "'小时不识月，呼作白玉盘'的作者是谁？",
+    "answer": "A",
+    "optionA": "李白",
+    "optionB": "杜甫",
+    "optionC": "白居易"
+  },
+  "186": {
+    "question": "以下哪个不是月饼的保存环境要求？",
+    "answer": "C",
+    "optionA": "阴凉",
+    "optionB": "干燥",
+    "optionC": "高温"
+  },
+  "187": {
+    "question": "中秋节的灯笼通常是什么颜色？",
+    "answer": "A",
+    "optionA": "红色",
+    "optionB": "绿色",
+    "optionC": "蓝色"
+  },
+  "188": {
+    "question": "'但愿人长久，千里共婵娟'的'婵娟'在古代还可以指代什么？",
+    "answer": "B",
+    "optionA": "美女",
+    "optionB": "月亮",
+    "optionC": "花朵"
+  },
+  "189": {
+    "question": "以下哪个不是月饼的形状？",
+    "answer": "C",
+    "optionA": "圆形",
+    "optionB": "方形",
+    "optionC": "三角形"
+  },
+  "190": {
+    "question": "中秋节的月亮落下的方向是？",
+    "answer": "B",
+    "optionA": "西方",
+    "optionB": "西北方",
+    "optionC": "东北方"
+  },
+  "191": {
+    "question": "以下哪个不是中秋节的传统习俗？",
+    "answer": "C",
+    "optionA": "祭月",
+    "optionB": "赏月",
+    "optionC": "扫墓"
+  },
+  "192": {
+    "question": "'海上生明月，天涯共此时'写于哪个朝代？",
+    "answer": "B",
+    "optionA": "唐朝",
+    "optionB": "宋朝",
+    "optionC": "元朝"
+  },
+  "193": {
+    "question": "以下哪个不是月饼的口味？",
+    "answer": "C",
+    "optionA": "甜味",
+    "optionB": "咸味",
+    "optionC": "辣味"
+  },
+  "194": {
+    "question": "中秋节的月亮为什么会有不同的颜色？",
+    "answer": "B",
+    "optionA": "月球本身颜色变化",
+    "optionB": "大气散射作用",
+    "optionC": "地球影子遮挡"
+  },
+  "195": {
+    "question": "'小时不识月，呼作白玉盘'中的'不识'是什么意思？",
+    "answer": "B",
+    "optionA": "不认识",
+    "optionB": "不了解",
+    "optionC": "不知道"
+  },
+  "196": {
+    "question": "以下哪个不是月饼的制作材料？",
+    "answer": "C",
+    "optionA": "面粉",
+    "optionB": "糖",
+    "optionC": "蔬菜"
+  },
+  "197": {
+    "question": "中秋节的灯笼通常有什么图案？",
+    "answer": "A",
+    "optionA": "月亮、嫦娥、玉兔",
+    "optionB": "龙、凤、麒麟",
+    "optionC": "花、草、树木"
+  },
+  "198": {
+    "question": "'但愿人长久，千里共婵娟'表达了作者的什么情感？",
+    "answer": "C",
+    "optionA": "对月亮的赞美",
+    "optionB": "对人生的感慨",
+    "optionC": "对亲人的思念"
+  },
+  "199": {
+    "question": "以下哪个不是月饼的品牌？",
+    "answer": "C",
+    "optionA": "美心",
+    "optionB": "荣华",
+    "optionC": "康师傅"
+  },
+  "200": {
+    "question": "中秋节的月亮为什么被称为'中秋月'？",
+    "answer": "B",
+    "optionA": "最明亮",
+    "optionB": "农历八月十五的月亮",
+    "optionC": "最大的月亮"
+  }
+}

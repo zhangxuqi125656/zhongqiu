@@ -1,0 +1,205 @@
+{
+  "001": {
+    "question": "中秋节在农历的哪一天？",
+    "answer": "C",
+    "optionA": "正月十五",
+    "optionB": "五月初五",
+    "optionC": "八月十五"
+  },
+  "002": {
+    "question": "中秋节最代表性的食物是什么？",
+    "answer": "C",
+    "optionA": "饺子",
+    "optionB": "粽子",
+    "optionC": "月饼"
+  },
+  "003": {
+    "question": "传说中，月亮上住着谁？",
+    "answer": "B",
+    "optionA": "孙悟空",
+    "optionB": "嫦娥",
+    "optionC": "七仙女"
+  },
+  "004": {
+    "question": "嫦娥飞上月宫是因为偷吃了什么？",
+    "answer": "B",
+    "optionA": "月饼",
+    "optionB": "仙丹",
+    "optionC": "蟠桃"
+  },
+  "005": {
+    "question": "中秋节又被称为什么节？",
+    "answer": "B",
+    "optionA": "元宵节",
+    "optionB": "团圆节",
+    "optionC": "饺子节"
+  },
+  "006": {
+    "question": "除了月饼，中秋节还会吃什么应季水果？",
+    "answer": "B",
+    "optionA": "西瓜",
+    "optionB": "柚子",
+    "optionC": "苹果"
+  },
+  "007": {
+    "question": "传说中在月亮上砍树的人是谁？",
+    "answer": "C",
+    "optionA": "后羿",
+    "optionB": "玉兔",
+    "optionC": "吴刚"
+  },
+  "008": {
+    "question": "月饼最初是用来做什么的？",
+    "answer": "A",
+    "optionA": "祭拜月神的供品",
+    "optionB": "皇帝的早餐",
+    "optionC": "军队的干粮"
+  },
+  "009": {
+    "question": "'但愿人长久，千里共婵娟'是谁的名句？",
+    "answer": "B",
+    "optionA": "李白",
+    "optionB": "苏轼",
+    "optionC": "杜甫"
+  },
+  "010": {
+    "question": "月亮上陪伴嫦娥的动物是什么？",
+    "answer": "A",
+    "optionA": "玉兔",
+    "optionB": "金乌",
+    "optionC": "蟾蜍"
+  },
+  "011": {
+    "question": "'婵娟'在古代指代什么？",
+    "answer": "B",
+    "optionA": "美女",
+    "optionB": "月亮",
+    "optionC": "爱情"
+  },
+  "012": {
+    "question": "以下哪种馅料是传统月饼常见的？",
+    "answer": "B",
+    "optionA": "巧克力馅",
+    "optionB": "五仁馅",
+    "optionC": "冰淇淋馅"
+  },
+  "013": {
+    "question": "中秋节时，月亮是什么形状的？",
+    "answer": "B",
+    "optionA": "弯月",
+    "optionB": "满月",
+    "optionC": "月牙"
+  },
+  "014": {
+    "question": "后羿射日的故事和哪个节日相关？",
+    "answer": "B",
+    "optionA": "春节",
+    "optionB": "中秋节",
+    "optionC": "端午节"
+  },
+  "015": {
+    "question": "潮汐现象主要受什么天体影响？",
+    "answer": "B",
+    "optionA": "太阳",
+    "optionB": "月球",
+    "optionC": "火星"
+  },
+  "016": {
+    "question": "广式月饼的显著特点是？",
+    "answer": "B",
+    "optionA": "酥皮",
+    "optionB": "皮薄馅多",
+    "optionC": "硬皮"
+  },
+  "017": {
+    "question": "'月饼'一词最早源于哪个朝代？",
+    "answer": "B",
+    "optionA": "唐朝",
+    "optionB": "宋朝",
+    "optionC": "元朝"
+  },
+  "018": {
+    "question": "以下哪项不是中秋节习俗？",
+    "answer": "C",
+    "optionA": "赏月",
+    "optionB": "吃月饼",
+    "optionC": "赛龙舟"
+  },
+  "019": {
+    "question": "苏式月饼的皮是什么口感？",
+    "answer": "B",
+    "optionA": "硬皮",
+    "optionB": "酥皮",
+    "optionC": "软皮"
+  },
+  "020": {
+    "question": "传说中玉兔在月亮上捣什么？",
+    "answer": "B",
+    "optionA": "年糕",
+    "optionB": "长生不老药",
+    "optionC": "月饼"
+  },
+  "021": {
+    "question": "吃月饼时，搭配什么茶可以解腻？",
+    "answer": "B",
+    "optionA": "奶茶",
+    "optionB": "绿茶",
+    "optionC": "咖啡"
+  },
+  "022": {
+    "question": "以下哪个不是月饼的别称？",
+    "answer": "C",
+    "optionA": "胡饼",
+    "optionB": "月团",
+    "optionC": "年糕"
+  },
+  "023": {
+    "question": "古代皇帝有'春天祭日，秋天祭月'的礼制，'祭月'在哪个节气？",
+    "answer": "B",
+    "optionA": "秋分",
+    "optionB": "中秋",
+    "optionC": "冬至"
+  },
+  "024": {
+    "question": "北京地区流行的传统月饼种类是？",
+    "answer": "B",
+    "optionA": "广式月饼",
+    "optionB": "京式月饼",
+    "optionC": "苏式月饼"
+  },
+  "025": {
+    "question": "冰皮月饼的皮主要是由什么做的？",
+    "answer": "B",
+    "optionA": "面粉",
+    "optionB": "糯米",
+    "optionC": "黄油"
+  },
+  "026": {
+    "question": "'天狗食月'是古人对什么现象的描述？",
+    "answer": "B",
+    "optionA": "日食",
+    "optionB": "月食",
+    "optionC": "流星"
+  },
+  "027": {
+    "question": "以下哪种活动，与中秋节无关？",
+    "answer": "C",
+    "optionA": "燃灯",
+    "optionB": "猜灯谜",
+    "optionC": "插艾草"
+  },
+  "028": {
+    "question": "'海上生明月，天涯共此时'的作者是？",
+    "answer": "B",
+    "optionA": "杜甫",
+    "optionB": "张九龄",
+    "optionC": "王维"
+  },
+  "029": {
+    "question": "月饼按产地分，不包括以下哪种？",
+    "answer": "C",
+    "optionA": "广式",
+    "optionB": "苏式",
+    "optionC": "京式"
+  }
+}

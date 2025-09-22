@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中秋节趣味答题</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>中秋节趣味答题</h1>
+        </header>
+        
+        <main>
+            <!-- 输入序号区域 -->
+            <section id="question-number-section" class="section">
+                <h2>请输入题目序号</h2>
+                <div class="input-group">
+                    <input type="text" id="question-number-input" placeholder="输入序号，如：001">
+                    <button id="confirm-number-btn" class="btn">确认</button>
+                </div>
+            </section>
+            
+            <!-- 题目显示区域 (初始隐藏) -->
+            <section id="question-section" class="section" style="display: none;">
+                <div class="question-box">
+                    <h3 id="question-title">题目</h3>
+                    <div class="options">
+                        <label class="option">
+                            <input type="radio" name="answer" value="A">
+                            <span class="option-text"><strong>A. </strong><span id="option-a"></span></span>
+                        </label>
+                        <label class="option">
+                            <input type="radio" name="answer" value="B">
+                            <span class="option-text"><strong>B. </strong><span id="option-b"></span></span>
+                        </label>
+                        <label class="option">
+                            <input type="radio" name="answer" value="C">
+                            <span class="option-text"><strong>C. </strong><span id="option-c"></span></span>
+                        </label>
+                    </div>
+                    <div class="btn-group">
+                        <button id="submit-answer-btn" class="btn">提交答案</button>
+                        <button id="back-btn" class="btn btn-secondary">返回</button>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- 答案结果区域 (初始隐藏) -->
+            <section id="result-section" class="section" style="display: none;">
+                <div class="result-box" id="result-box">
+                    <h3 id="result-title">结果</h3>
+                    <p id="result-message"></p>
+                    <button id="next-question-btn" class="btn">下一题</button>
+                </div>
+            </section>
+        </main>
+        
+        <footer>
+            <p>&copy; 2025 中秋节趣味答题</p>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

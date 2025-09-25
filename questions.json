@@ -1,0 +1,1584 @@
+{
+  "001": {
+    "question": "中华人民共和国成立于哪一年？",
+    "answer": "B",
+    "optionA": "1948年",
+    "optionB": "1949年",
+    "optionC": "1950年"
+  },
+  "002": {
+    "question": "国庆节是每年的几月几日？",
+    "answer": "A",
+    "optionA": "10月1日",
+    "optionB": "9月30日",
+    "optionC": "10月10日"
+  },
+  "003": {
+    "question": "中国的国旗名称是？",
+    "answer": "A",
+    "optionA": "五星红旗",
+    "optionB": "赤旗",
+    "optionC": "青天白日旗"
+  },
+  "004": {
+    "question": "国歌《义勇军进行曲》的词作者是？",
+    "answer": "C",
+    "optionA": "聂耳",
+    "optionB": "冼星海",
+    "optionC": "田汉"
+  },
+  "005": {
+    "question": "国歌的曲作者是？",
+    "answer": "B",
+    "optionA": "田汉",
+    "optionB": "聂耳",
+    "optionC": "冼星海"
+  },
+  "006": {
+    "question": "开国大典在哪个城市举行？",
+    "answer": "C",
+    "optionA": "南京",
+    "optionB": "上海",
+    "optionC": "北京"
+  },
+  "007": {
+    "question": "国徽中间是？",
+    "answer": "B",
+    "optionA": "镰刀锤头",
+    "optionB": "天安门",
+    "optionC": "谷穗齿轮"
+  },
+  "008": {
+    "question": "国庆阅兵通常在哪个广场举行？",
+    "answer": "B",
+    "optionA": "人民广场",
+    "optionB": "天安门广场",
+    "optionC": "五一广场"
+  },
+  "009": {
+    "question": "\"国庆黄金周\"一般放几天假？",
+    "answer": "B",
+    "optionA": "5天",
+    "optionB": "7天",
+    "optionC": "10天"
+  },
+  "010": {
+    "question": "中华人民共和国的国都是？",
+    "answer": "C",
+    "optionA": "上海",
+    "optionB": "广州",
+    "optionC": "北京"
+  },
+  "011": {
+    "question": "以下哪首是爱国歌曲？",
+    "answer": "B",
+    "optionA": "《茉莉花》",
+    "optionB": "《我和我的祖国》",
+    "optionC": "《甜蜜蜜》"
+  },
+  "012": {
+    "question": "国庆节是为了纪念什么？",
+    "answer": "B",
+    "optionA": "抗日战争胜利",
+    "optionB": "新中国成立",
+    "optionC": "辛亥革命"
+  },
+  "013": {
+    "question": "国旗上的大五角星代表？",
+    "answer": "B",
+    "optionA": "工人阶级",
+    "optionB": "中国共产党",
+    "optionC": "农民阶级"
+  },
+  "014": {
+    "question": "国旗上四颗小五角星代表？",
+    "answer": "C",
+    "optionA": "四大发明",
+    "optionB": "工、农、士、商",
+    "optionC": "工人、农民、小资产阶级、民族资产阶级"
+  },
+  "015": {
+    "question": "中国有多少个民族？",
+    "answer": "B",
+    "optionA": "55个",
+    "optionB": "56个",
+    "optionC": "57个"
+  },
+  "016": {
+    "question": "国庆期间常见的庆祝方式不包括？",
+    "answer": "C",
+    "optionA": "升国旗",
+    "optionB": "放烟花",
+    "optionC": "赛龙舟"
+  },
+  "017": {
+    "question": "以下哪个不是国庆元素？",
+    "answer": "C",
+    "optionA": "红灯笼",
+    "optionB": "五星红旗",
+    "optionC": "月饼"
+  },
+  "018": {
+    "question": "《义勇军进行曲》最初是哪部电影的主题曲？",
+    "answer": "A",
+    "optionA": "《风云儿女》",
+    "optionB": "《上甘岭》",
+    "optionC": "《地道战》"
+  },
+  "019": {
+    "question": "国庆节属于哪种节日类型？",
+    "answer": "B",
+    "optionA": "传统节日",
+    "optionB": "法定节假日",
+    "optionC": "宗教节日"
+  },
+  "020": {
+    "question": "中国国树是？",
+    "answer": "C",
+    "optionA": "银杏",
+    "optionB": "松树",
+    "optionC": "尚未正式确定"
+  },
+  "021": {
+    "question": "国庆阅兵中，徒步方队通常由谁组成？",
+    "answer": "B",
+    "optionA": "民兵",
+    "optionB": "三军仪仗队",
+    "optionC": "学生"
+  },
+  "022": {
+    "question": "1949年10月1日，谁在天安门城楼上宣告新中国成立？",
+    "answer": "C",
+    "optionA": "周恩来",
+    "optionB": "朱德",
+    "optionC": "毛泽东"
+  },
+  "023": {
+    "question": "国庆节与哪个节日临近？",
+    "answer": "A",
+    "optionA": "中秋节",
+    "optionB": "重阳节",
+    "optionC": "教师节"
+  },
+  "024": {
+    "question": "以下哪句是爱国名言？",
+    "answer": "A",
+    "optionA": "\"天下兴亡，匹夫有责\"",
+    "optionB": "\"海内存知己\"",
+    "optionC": "\"床前明月光\""
+  },
+  "025": {
+    "question": "中国国花尚未正式确定，但常被提名的是？",
+    "answer": "A",
+    "optionA": "牡丹和梅花",
+    "optionB": "荷花和兰花",
+    "optionC": "菊花和桂花"
+  },
+  "026": {
+    "question": "国庆期间，天安门广场会摆放什么巨型花坛？",
+    "answer": "B",
+    "optionA": "\"祖国万岁\"",
+    "optionB": "\"欢度国庆\"",
+    "optionC": "\"1949-2024\""
+  },
+  "027": {
+    "question": "以下哪个城市不是直辖市？",
+    "answer": "B",
+    "optionA": "上海",
+    "optionB": "深圳",
+    "optionC": "重庆"
+  },
+  "028": {
+    "question": "中国最长的河流是？",
+    "answer": "B",
+    "optionA": "黄河",
+    "optionB": "长江",
+    "optionC": "珠江"
+  },
+  "029": {
+    "question": "中国最高的山峰是？",
+    "answer": "C",
+    "optionA": "泰山",
+    "optionB": "华山",
+    "optionC": "珠穆朗玛峰"
+  },
+  "030": {
+    "question": "五星红旗的设计者是？",
+    "answer": "A",
+    "optionA": "曾联松",
+    "optionB": "林徽因",
+    "optionC": "梁思成"
+  },
+  "031": {
+    "question": "国徽图案由谁主持设计？",
+    "answer": "A",
+    "optionA": "梁思成",
+    "optionB": "齐康",
+    "optionC": "张仃"
+  },
+  "032": {
+    "question": "\"为中华之崛起而读书\"是谁说的？",
+    "answer": "B",
+    "optionA": "鲁迅",
+    "optionB": "周恩来",
+    "optionC": "毛泽东"
+  },
+  "033": {
+    "question": "中国共产党成立于哪一年？",
+    "answer": "B",
+    "optionA": "1920年",
+    "optionB": "1921年",
+    "optionC": "1922年"
+  },
+  "034": {
+    "question": "新中国第一部宪法颁布于哪年？",
+    "answer": "A",
+    "optionA": "1954年",
+    "optionB": "1949年",
+    "optionC": "1978年"
+  },
+  "035": {
+    "question": "国庆阅兵几年举行一次？",
+    "answer": "C",
+    "optionA": "每年",
+    "optionB": "每5年",
+    "optionC": "每10年（重大纪念年）"
+  },
+  "036": {
+    "question": "2025年是新中国成立多少周年？",
+    "answer": "C",
+    "optionA": "74周年",
+    "optionB": "75周年",
+    "optionC": "76周年"
+  },
+  "037": {
+    "question": "以下哪个不是国家象征？",
+    "answer": "B",
+    "optionA": "国旗",
+    "optionB": "国花",
+    "optionC": "国歌"
+  },
+  "038": {
+    "question": "《我和我的祖国》歌词中\"我最亲爱的祖国\"后面是？",
+    "answer": "C",
+    "optionA": "\"你是大海\"",
+    "optionB": "\"你是高山\"",
+    "optionC": "\"我永远紧依着你的心窝\""
+  },
+  "039": {
+    "question": "中国陆地面积世界第几？",
+    "answer": "C",
+    "optionA": "第一",
+    "optionB": "第二",
+    "optionC": "第三"
+  },
+  "040": {
+    "question": "中国人口最多的民族是？",
+    "answer": "B",
+    "optionA": "壮族",
+    "optionB": "汉族",
+    "optionC": "满族"
+  },
+  "041": {
+    "question": "以下哪个节日不是法定节假日？",
+    "answer": "B",
+    "optionA": "元旦",
+    "optionB": "情人节",
+    "optionC": "国庆节"
+  },
+  "042": {
+    "question": "中国国鸟尚未确定，但常被提名的是？",
+    "answer": "A",
+    "optionA": "丹顶鹤",
+    "optionB": "孔雀",
+    "optionC": "麻雀"
+  },
+  "043": {
+    "question": "1999年实行\"黄金周\"假期制度，包含哪个节日？",
+    "answer": "A",
+    "optionA": "春节和国庆",
+    "optionB": "五一和中秋",
+    "optionC": "端午和国庆"
+  },
+  "044": {
+    "question": "以下哪位是\"两弹一星\"元勋？",
+    "answer": "A",
+    "optionA": "钱学森",
+    "optionB": "袁隆平",
+    "optionC": "屠呦呦"
+  },
+  "045": {
+    "question": "中国第一颗原子弹爆炸成功是哪年？",
+    "answer": "A",
+    "optionA": "1964年",
+    "optionB": "1967年",
+    "optionC": "1970年"
+  },
+  "046": {
+    "question": "中国第一颗人造卫星叫什么？",
+    "answer": "B",
+    "optionA": "长征一号",
+    "optionB": "东方红一号",
+    "optionC": "神舟一号"
+  },
+  "047": {
+    "question": "2008年北京奥运会开幕式在哪天举行？",
+    "answer": "A",
+    "optionA": "8月8日",
+    "optionB": "10月1日",
+    "optionC": "6月1日"
+  },
+  "048": {
+    "question": "以下哪个不是爱国诗人？",
+    "answer": "C",
+    "optionA": "屈原",
+    "optionB": "杜甫",
+    "optionC": "李白"
+  },
+  "049": {
+    "question": "\"人生自古谁无死，留取丹心照汗青\"作者是？",
+    "answer": "A",
+    "optionA": "文天祥",
+    "optionB": "岳飞",
+    "optionC": "陆游"
+  },
+  "050": {
+    "question": "中国有多少个省级行政区？",
+    "answer": "B",
+    "optionA": "32个",
+    "optionB": "34个",
+    "optionC": "36个"
+  },
+  "051": {
+    "question": "以下哪个城市是省会？",
+    "answer": "B",
+    "optionA": "苏州",
+    "optionB": "杭州",
+    "optionC": "无锡"
+  },
+  "052": {
+    "question": "中国国宝动物是？",
+    "answer": "B",
+    "optionA": "金丝猴",
+    "optionB": "大熊猫",
+    "optionC": "东北虎"
+  },
+  "053": {
+    "question": "五星红旗的红色象征？",
+    "answer": "A",
+    "optionA": "革命",
+    "optionB": "喜庆",
+    "optionC": "热情"
+  },
+  "054": {
+    "question": "国旗上的五角星用什么颜色？",
+    "answer": "A",
+    "optionA": "黄色",
+    "optionB": "白色",
+    "optionC": "金色"
+  },
+  "055": {
+    "question": "升国旗时应行什么礼？",
+    "answer": "A",
+    "optionA": "注目礼",
+    "optionB": "握手礼",
+    "optionC": "鞠躬礼"
+  },
+  "056": {
+    "question": "以下哪句是国歌歌词？",
+    "answer": "A",
+    "optionA": "\"起来！不愿做奴隶的人们！\"",
+    "optionB": "\"五星红旗迎风飘扬\"",
+    "optionC": "\"歌唱我们亲爱的祖国\""
+  },
+  "057": {
+    "question": "中国最长的城墙是？",
+    "answer": "C",
+    "optionA": "南京城墙",
+    "optionB": "西安城墙",
+    "optionC": "长城"
+  },
+  "058": {
+    "question": "\"中国梦\"的核心目标是？",
+    "answer": "B",
+    "optionA": "共同富裕",
+    "optionB": "实现中华民族伟大复兴",
+    "optionC": "科技领先"
+  },
+  "059": {
+    "question": "改革开放始于哪一年？",
+    "answer": "A",
+    "optionA": "1978年",
+    "optionB": "1980年",
+    "optionC": "1976年"
+  },
+  "060": {
+    "question": "以下哪个不是四大发明？",
+    "answer": "C",
+    "optionA": "造纸术",
+    "optionB": "指南针",
+    "optionC": "瓷器"
+  },
+  "061": {
+    "question": "中国高铁总里程世界第几？",
+    "answer": "A",
+    "optionA": "第一",
+    "optionB": "第二",
+    "optionC": "第三"
+  },
+  "062": {
+    "question": "以下哪位是航天英雄？",
+    "answer": "A",
+    "optionA": "杨利伟",
+    "optionB": "邓稼先",
+    "optionC": "钱三强"
+  },
+  "063": {
+    "question": "\"天问一号\"探测的是哪颗行星？",
+    "answer": "B",
+    "optionA": "月球",
+    "optionB": "火星",
+    "optionC": "金星"
+  },
+  "064": {
+    "question": "中国首艘航空母舰叫？",
+    "answer": "A",
+    "optionA": "辽宁舰",
+    "optionB": "山东舰",
+    "optionC": "福建舰"
+  },
+  "065": {
+    "question": "国庆节期间，高速公路对小客车？",
+    "answer": "B",
+    "optionA": "收费",
+    "optionB": "免费通行",
+    "optionC": "半价"
+  },
+  "066": {
+    "question": "《没有共产党就没有新中国》歌名中的\"新\"指？",
+    "answer": "B",
+    "optionA": "新民主主义",
+    "optionB": "新中国",
+    "optionC": "新时代"
+  },
+  "067": {
+    "question": "中国国球是？",
+    "answer": "B",
+    "optionA": "篮球",
+    "optionB": "乒乓球",
+    "optionC": "足球"
+  },
+  "068": {
+    "question": "以下哪个是爱国教育基地？",
+    "answer": "B",
+    "optionA": "故宫",
+    "optionB": "井冈山",
+    "optionC": "上海外滩"
+  },
+  "069": {
+    "question": "以下哪句体现爱国精神？",
+    "answer": "A",
+    "optionA": "\"先天下之忧而忧\"",
+    "optionB": "\"采菊东篱下\"",
+    "optionC": "\"举杯邀明月\""
+  },
+  "070": {
+    "question": "国庆阅兵中，装备方队展示的是？",
+    "answer": "B",
+    "optionA": "民用汽车",
+    "optionB": "军用武器",
+    "optionC": "农业机械"
+  },
+  "071": {
+    "question": "以下哪个城市举办过国庆阅兵？",
+    "answer": "C",
+    "optionA": "上海",
+    "optionB": "广州",
+    "optionC": "北京"
+  },
+  "072": {
+    "question": "《义勇军进行曲》被定为国歌是在？",
+    "answer": "A",
+    "optionA": "1949年",
+    "optionB": "1982年",
+    "optionC": "1978年"
+  },
+  "073": {
+    "question": "\"绿水青山就是金山银山\"体现什么理念？",
+    "answer": "B",
+    "optionA": "经济优先",
+    "optionB": "生态文明",
+    "optionC": "科技兴国"
+  },
+  "074": {
+    "question": "以下哪位是杂交水稻之父？",
+    "answer": "B",
+    "optionA": "钱学森",
+    "optionB": "袁隆平",
+    "optionC": "屠呦呦"
+  },
+  "075": {
+    "question": "中国首颗探月卫星叫？",
+    "answer": "A",
+    "optionA": "嫦娥一号",
+    "optionB": "天宫一号",
+    "optionC": "神舟五号"
+  },
+  "076": {
+    "question": "国庆期间，人们常去哪里拍照打卡？",
+    "answer": "A",
+    "optionA": "天安门广场",
+    "optionB": "黄山",
+    "optionC": "九寨沟"
+  },
+  "077": {
+    "question": "以下哪个是国家勋章？",
+    "answer": "B",
+    "optionA": "五一劳动奖章",
+    "optionB": "共和国勋章",
+    "optionC": "优秀党员奖"
+  },
+  "078": {
+    "question": "中国首艘载人飞船是？",
+    "answer": "A",
+    "optionA": "神舟五号",
+    "optionB": "神舟一号",
+    "optionC": "天宫一号"
+  },
+  "079": {
+    "question": "中秋节是农历几月几日？",
+    "answer": "A",
+    "optionA": "八月十五",
+    "optionB": "正月十五",
+    "optionC": "五月初五"
+  },
+  "080": {
+    "question": "中秋节的传统食物主要是？",
+    "answer": "B",
+    "optionA": "粽子",
+    "optionB": "月饼",
+    "optionC": "饺子"
+  },
+  "081": {
+    "question": "下列哪个不是中秋节习俗？",
+    "answer": "C",
+    "optionA": "赏月",
+    "optionB": "吃月饼",
+    "optionC": "赛龙舟"
+  },
+  "082": {
+    "question": "中秋节常被称为哪个节日？",
+    "answer": "A",
+    "optionA": "团圆节",
+    "optionB": "踏青节",
+    "optionC": "祭祖节"
+  },
+  "083": {
+    "question": "传说中住在月宫里的仙女是？",
+    "answer": "B",
+    "optionA": "织女",
+    "optionB": "嫦娥",
+    "optionC": "七仙女"
+  },
+  "084": {
+    "question": "中秋节常观赏的花是？",
+    "answer": "C",
+    "optionA": "菊花",
+    "optionB": "牡丹",
+    "optionC": "桂花"
+  },
+  "085": {
+    "question": "中秋节人们常饮用的特色酒是？",
+    "answer": "B",
+    "optionA": "白酒",
+    "optionB": "桂花酒",
+    "optionC": "啤酒"
+  },
+  "086": {
+    "question": "传说中吴刚在月宫砍伐的树是？",
+    "answer": "B",
+    "optionA": "松树",
+    "optionB": "桂树",
+    "optionC": "杨树"
+  },
+  "087": {
+    "question": "下列哪句诗与中秋节相关？",
+    "answer": "B",
+    "optionA": "爆竹声中一岁除",
+    "optionB": "举头望明月",
+    "optionC": "清明时节雨纷纷"
+  },
+  "088": {
+    "question": "中秋节的月亮通常以什么形状为美？",
+    "answer": "C",
+    "optionA": "月牙形",
+    "optionB": "半圆形",
+    "optionC": "圆形"
+  },
+  "089": {
+    "question": "中秋节阖家团聚常吃的饭是？",
+    "answer": "A",
+    "optionA": "团圆饭",
+    "optionB": "年夜饭",
+    "optionC": "端午宴"
+  },
+  "090": {
+    "question": "下列哪个是中秋节的别称？",
+    "answer": "A",
+    "optionA": "桂月节",
+    "optionB": "杏月节",
+    "optionC": "桃月节"
+  },
+  "091": {
+    "question": "传说中陪伴嫦娥在月宫的动物是？",
+    "answer": "B",
+    "optionA": "狐狸",
+    "optionB": "兔子",
+    "optionC": "猴子"
+  },
+  "092": {
+    "question": "下列哪个活动不属于中秋节？",
+    "answer": "B",
+    "optionA": "猜灯谜",
+    "optionB": "赛龙舟",
+    "optionC": "赏月亮"
+  },
+  "093": {
+    "question": "中秋节的月份在公历中通常是？",
+    "answer": "C",
+    "optionA": "7-8 月",
+    "optionB": "8-9 月",
+    "optionC": "9-10 月"
+  },
+  "094": {
+    "question": "传统月饼中常见的经典口味是？",
+    "answer": "A",
+    "optionA": "五仁",
+    "optionB": "麻辣",
+    "optionC": "酸辣"
+  },
+  "095": {
+    "question": "下列哪句诗描写的是中秋月色？",
+    "answer": "B",
+    "optionA": "春风又绿江南岸",
+    "optionB": "月是故乡明",
+    "optionC": "映日荷花别样红"
+  },
+  "096": {
+    "question": "传说中射下九个太阳的英雄，是嫦娥的丈夫？",
+    "answer": "B",
+    "optionA": "牛郎",
+    "optionB": "后羿",
+    "optionC": "许仙"
+  },
+  "097": {
+    "question": "下列哪个不是月饼的常见形状？",
+    "answer": "C",
+    "optionA": "圆形",
+    "optionB": "方形",
+    "optionC": "三角形"
+  },
+  "098": {
+    "question": "中秋节家人团聚时，常一起做的事是？",
+    "answer": "B",
+    "optionA": "贴春联",
+    "optionB": "赏月聊天",
+    "optionC": "扫墓祭祖"
+  },
+  "099": {
+    "question": "下列哪个节日与月亮无关？",
+    "answer": "C",
+    "optionA": "中秋",
+    "optionB": "元宵",
+    "optionC": "清明"
+  },
+  "100": {
+    "question": "中秋节时，商场常推出的促销商品是？",
+    "answer": "B",
+    "optionA": "粽子",
+    "optionB": "月饼",
+    "optionC": "汤圆"
+  },
+  "101": {
+    "question": "传说中月宫的宫殿名称是？",
+    "answer": "A",
+    "optionA": "广寒宫",
+    "optionB": "凌霄殿",
+    "optionC": "水晶宫"
+  },
+  "102": {
+    "question": "下列哪项不是中秋节的传统装饰？",
+    "answer": "C",
+    "optionA": "灯笼",
+    "optionB": "桂花枝",
+    "optionC": "春联"
+  },
+  "103": {
+    "question": "中秋节吃月饼的习俗，最初与哪个有关？",
+    "answer": "A",
+    "optionA": "祭祀月亮",
+    "optionB": "庆祝丰收",
+    "optionC": "纪念英雄"
+  },
+  "104": {
+    "question": "中秋节期间，我国大部分地区的天气是？",
+    "answer": "B",
+    "optionA": "炎热",
+    "optionB": "凉爽",
+    "optionC": "寒冷"
+  },
+  "105": {
+    "question": "传说中，玉兔在月宫负责什么？",
+    "answer": "A",
+    "optionA": "捣药",
+    "optionB": "种树",
+    "optionC": "守门"
+  },
+  "106": {
+    "question": "下列哪个食物与中秋节无关？",
+    "answer": "C",
+    "optionA": "月饼",
+    "optionB": "桂花糕",
+    "optionC": "粽子"
+  },
+  "107": {
+    "question": "中秋节时，人们常说的 \"千里共婵娟\" 中，\"婵娟\" 指？",
+    "answer": "A",
+    "optionA": "月亮",
+    "optionB": "美人",
+    "optionC": "美景"
+  },
+  "108": {
+    "question": "下列哪个活动是中秋节常有的？",
+    "answer": "A",
+    "optionA": "猜灯谜",
+    "optionB": "踏青",
+    "optionC": "赛龙舟"
+  },
+  "109": {
+    "question": "传说中，吴刚伐桂为何永远伐不倒树？",
+    "answer": "A",
+    "optionA": "树会自愈",
+    "optionB": "吴刚力气小",
+    "optionC": "树太坚硬"
+  },
+  "110": {
+    "question": "下列哪个不是中秋节的别称？",
+    "answer": "C",
+    "optionA": "仲秋节",
+    "optionB": "八月节",
+    "optionC": "上元节"
+  },
+  "111": {
+    "question": "传统月饼的饼皮多为哪种口味？",
+    "answer": "A",
+    "optionA": "甜味",
+    "optionB": "咸味",
+    "optionC": "辣味"
+  },
+  "112": {
+    "question": "下列哪句诗不是写中秋的？",
+    "answer": "C",
+    "optionA": "明月几时有",
+    "optionB": "床前明月光",
+    "optionC": "春风送暖入屠苏"
+  },
+  "113": {
+    "question": "传说中，月宫的桂树高多少丈？",
+    "answer": "A",
+    "optionA": "五十丈",
+    "optionB": "八十丈",
+    "optionC": "百丈"
+  },
+  "114": {
+    "question": "中秋节时，人们常给亲友送的礼物是？",
+    "answer": "A",
+    "optionA": "月饼",
+    "optionB": "粽子",
+    "optionC": "汤圆"
+  },
+  "115": {
+    "question": "下列哪项不是中秋节的文化意义？",
+    "answer": "C",
+    "optionA": "团圆",
+    "optionB": "思乡",
+    "optionC": "祭祖"
+  },
+  "116": {
+    "question": "下列哪个节日和中秋一样注重团圆？",
+    "answer": "A",
+    "optionA": "春节",
+    "optionB": "清明",
+    "optionC": "端午"
+  },
+  "117": {
+    "question": "传说中，嫦娥居住的月宫有什么特点？",
+    "answer": "A",
+    "optionA": "寒冷",
+    "optionB": "炎热",
+    "optionC": "温暖"
+  },
+  "118": {
+    "question": "下列哪个不是月饼的馅料？",
+    "answer": "C",
+    "optionA": "豆沙",
+    "optionB": "肉馅",
+    "optionC": "辣椒馅"
+  },
+  "119": {
+    "question": "传说中，玉兔捣的药是用来？",
+    "answer": "B",
+    "optionA": "治病",
+    "optionB": "长生",
+    "optionC": "美容"
+  },
+  "120": {
+    "question": "传说中，后羿射日成功后得到的奖励是？",
+    "answer": "A",
+    "optionA": "仙药",
+    "optionB": "金银",
+    "optionC": "土地"
+  },
+  "121": {
+    "question": "传说中，月宫除了嫦娥和玉兔，还有谁？",
+    "answer": "A",
+    "optionA": "吴刚",
+    "optionB": "牛郎",
+    "optionC": "织女"
+  },
+  "122": {
+    "question": "下列哪个不是中秋节的习俗活动？",
+    "answer": "C",
+    "optionA": "赏月",
+    "optionB": "吃月饼",
+    "optionC": "贴窗花"
+  },
+  "123": {
+    "question": "中秋节的 \"秋\" 指的是哪个季节？",
+    "answer": "B",
+    "optionA": "春季",
+    "optionB": "秋季",
+    "optionC": "冬季"
+  },
+  "124": {
+    "question": "传说中，嫦娥飞上月宫后，住的地方是？",
+    "answer": "A",
+    "optionA": "广寒宫",
+    "optionB": "凌霄殿",
+    "optionC": "瑶池"
+  },
+  "125": {
+    "question": "传说中，吴刚伐桂的惩罚会持续多久？",
+    "answer": "C",
+    "optionA": "一年",
+    "optionB": "十年",
+    "optionC": "永远"
+  },
+  "126": {
+    "question": "下列哪个不是中秋节的象征物？",
+    "answer": "C",
+    "optionA": "月亮",
+    "optionB": "桂花",
+    "optionC": "荷花"
+  },
+  "127": {
+    "question": "传说中，玉兔的毛色是？",
+    "answer": "A",
+    "optionA": "白色",
+    "optionB": "黑色",
+    "optionC": "灰色"
+  },
+  "128": {
+    "question": "下列哪个诗句与中秋月亮无关？",
+    "answer": "C",
+    "optionA": "月落乌啼霜满天",
+    "optionB": "明月松间照",
+    "optionC": "二月春风似剪刀"
+  },
+  "129": {
+    "question": "传说中，后羿射下了几个太阳？",
+    "answer": "B",
+    "optionA": "八个",
+    "optionB": "九个",
+    "optionC": "十个"
+  },
+  "130": {
+    "question": "下列哪个不是中秋节的习俗意义？",
+    "answer": "C",
+    "optionA": "团圆",
+    "optionB": "思乡",
+    "optionC": "祭祖"
+  },
+  "131": {
+    "question": "传说中，嫦娥最喜欢的花是？",
+    "answer": "A",
+    "optionA": "桂花",
+    "optionB": "牡丹",
+    "optionC": "菊花"
+  },
+  "132": {
+    "question": "下列哪个不是中秋节的月份别称？",
+    "answer": "C",
+    "optionA": "桂月",
+    "optionB": "仲秋",
+    "optionC": "端月"
+  },
+  "133": {
+    "question": "中秋节时，家人一起赏月常坐在哪里？",
+    "answer": "A",
+    "optionA": "阳台或院子",
+    "optionB": "厨房",
+    "optionC": "卧室"
+  },
+  "134": {
+    "question": "春节时贴在门框两侧的红色对联叫什么？",
+    "answer": "A",
+    "optionA": "春联",
+    "optionB": "福字",
+    "optionC": "窗花"
+  },
+  "135": {
+    "question": "元宵节的传统食物是什么？",
+    "answer": "B",
+    "optionA": "粽子",
+    "optionB": "汤圆",
+    "optionC": "饺子"
+  },
+  "136": {
+    "question": "清明节主要的祭祀习俗是？",
+    "answer": "B",
+    "optionA": "赏月",
+    "optionB": "扫墓",
+    "optionC": "赛龙舟"
+  },
+  "137": {
+    "question": "端午节人们常佩戴的驱虫饰品是？",
+    "answer": "A",
+    "optionA": "香囊",
+    "optionB": "玉佩",
+    "optionC": "银锁"
+  },
+  "138": {
+    "question": "冬至北方地区常吃的食物是？",
+    "answer": "B",
+    "optionA": "汤圆",
+    "optionB": "饺子",
+    "optionC": "年糕"
+  },
+  "139": {
+    "question": "传统婚礼中，新娘通常穿什么颜色的嫁衣？",
+    "answer": "A",
+    "optionA": "红色",
+    "optionB": "白色",
+    "optionC": "粉色"
+  },
+  "140": {
+    "question": "舞龙舞狮常用于哪种场合？",
+    "answer": "B",
+    "optionA": "葬礼",
+    "optionB": "庆典",
+    "optionC": "祭祀"
+  },
+  "141": {
+    "question": "汉服是哪个民族的传统服饰？",
+    "answer": "A",
+    "optionA": "汉族",
+    "optionB": "满族",
+    "optionC": "回族"
+  },
+  "142": {
+    "question": "饺子的形状像古代的什么，象征财富？",
+    "answer": "A",
+    "optionA": "元宝",
+    "optionB": "铜钱",
+    "optionC": "金币"
+  },
+  "143": {
+    "question": "端午节挂在门口的植物是？",
+    "answer": "B",
+    "optionA": "桂花",
+    "optionB": "艾草",
+    "optionC": "梅花"
+  },
+  "144": {
+    "question": "清明节人们常吃的传统食物是？",
+    "answer": "A",
+    "optionA": "青团",
+    "optionB": "月饼",
+    "optionC": "粽子"
+  },
+  "145": {
+    "question": "重阳节人们喜欢进行的户外活动是？",
+    "answer": "A",
+    "optionA": "踏青",
+    "optionB": "登高",
+    "optionC": "游泳"
+  },
+  "146": {
+    "question": "传统婚俗中，夫妻对拜的第一个环节是？",
+    "answer": "A",
+    "optionA": "拜天地",
+    "optionB": "拜高堂",
+    "optionC": "夫妻对拜"
+  },
+  "147": {
+    "question": "皮影戏表演时用到的道具是？",
+    "answer": "B",
+    "optionA": "木偶",
+    "optionB": "皮影人",
+    "optionC": "面具"
+  },
+  "148": {
+    "question": "春节 \"守岁\" 的习俗是指在哪个时间不睡觉？",
+    "answer": "A",
+    "optionA": "除夕",
+    "optionB": "初一",
+    "optionC": "小年"
+  },
+  "149": {
+    "question": "端午节 \"赛龙舟\" 最初是为了纪念谁？",
+    "answer": "A",
+    "optionA": "屈原",
+    "optionB": "李白",
+    "optionC": "杜甫"
+  },
+  "150": {
+    "question": "春节 \"拜年\" 时，长辈会给晚辈什么？",
+    "answer": "A",
+    "optionA": "红包",
+    "optionB": "礼物",
+    "optionC": "食物"
+  },
+  "151": {
+    "question": "元宵节的别称是？",
+    "answer": "A",
+    "optionA": "上元节",
+    "optionB": "中元节",
+    "optionC": "下元节"
+  },
+  "152": {
+    "question": "清明节的前一天被称为？",
+    "answer": "A",
+    "optionA": "寒食节",
+    "optionB": "上元节",
+    "optionC": "腊八节"
+  },
+  "153": {
+    "question": "重阳节的别称是？",
+    "answer": "A",
+    "optionA": "老人节",
+    "optionB": "团圆节",
+    "optionC": "祭祖节"
+  },
+  "154": {
+    "question": "春节贴 \"福\" 字时，常把 \"福\" 字倒贴，寓意是？",
+    "answer": "A",
+    "optionA": "福到了",
+    "optionB": "福气满",
+    "optionC": "福长久"
+  },
+  "155": {
+    "question": "元宵节吃汤圆象征什么？",
+    "answer": "A",
+    "optionA": "团圆",
+    "optionB": "平安",
+    "optionC": "健康"
+  },
+  "156": {
+    "question": "春节放鞭炮的最初目的是？",
+    "answer": "B",
+    "optionA": "庆祝",
+    "optionB": "驱邪",
+    "optionC": "热闹"
+  },
+  "157": {
+    "question": "清明节的传统活动除了扫墓，还有？",
+    "answer": "B",
+    "optionA": "赏灯",
+    "optionB": "踏青",
+    "optionC": "登高"
+  },
+  "158": {
+    "question": "重阳节 \"敬老\" 的习俗体现了什么美德？",
+    "answer": "A",
+    "optionA": "孝顺",
+    "optionB": "友爱",
+    "optionC": "诚信"
+  },
+  "159": {
+    "question": "白胖娃娃泥里藏，腰身细细心眼多。（打一蔬菜）",
+    "answer": "A",
+    "optionA": "莲藕",
+    "optionB": "萝卜",
+    "optionC": "山药"
+  },
+  "160": {
+    "question": "小小诸葛亮，独坐中军帐，摆下八卦阵，专捉飞来将。（打一动物）",
+    "answer": "A",
+    "optionA": "蜘蛛",
+    "optionB": "蚂蚁",
+    "optionC": "蝎子"
+  },
+  "161": {
+    "question": "脱了红袍子，是个白胖子，去了白胖子，是个黑圆子。（打一植物）",
+    "answer": "B",
+    "optionA": "桂圆",
+    "optionB": "荔枝",
+    "optionC": "花生"
+  },
+  "162": {
+    "question": "小小红坛子，装满红饺子，吃掉红饺子，吐出白珠子。（打一水果）",
+    "answer": "B",
+    "optionA": "橘子",
+    "optionB": "石榴",
+    "optionC": "柚子"
+  },
+  "163": {
+    "question": "身穿绿衣裳，肚里水汪汪，生的儿子多，个个黑脸膛。（打一水果）",
+    "answer": "A",
+    "optionA": "西瓜",
+    "optionB": "黑布林",
+    "optionC": "黑莓"
+  },
+  "164": {
+    "question": "千条线，万条线，掉进水里看不见。（打一自然现象）",
+    "answer": "A",
+    "optionA": "雨",
+    "optionB": "雪",
+    "optionC": "雾"
+  },
+  "165": {
+    "question": "四四方方一块田，一块一块卖铜钱。（打一食物）",
+    "answer": "A",
+    "optionA": "豆腐",
+    "optionB": "年糕",
+    "optionC": "米糕"
+  },
+  "166": {
+    "question": "兄弟七八个，围着柱子坐，大家一分手，衣服就扯破。（打一蔬菜）",
+    "answer": "A",
+    "optionA": "蒜",
+    "optionB": "洋葱",
+    "optionC": "大葱"
+  },
+  "167": {
+    "question": "头戴红帽子，身穿白袍子，走路摆架子，说话伸脖子。（打一动物）",
+    "answer": "A",
+    "optionA": "鹅",
+    "optionB": "鸭",
+    "optionC": "鸡"
+  },
+  "168": {
+    "question": "白嫩小宝宝，洗澡吹泡泡，洗洗身体小，再洗不见了。（打一用品）",
+    "answer": "A",
+    "optionA": "肥皂",
+    "optionB": "香皂",
+    "optionC": "洗衣粉"
+  },
+  "169": {
+    "question": "小小一姑娘，坐在水中央，身穿粉红袄，阵阵放清香。（打一植物）",
+    "answer": "A",
+    "optionA": "荷花",
+    "optionB": "水仙",
+    "optionC": "睡莲"
+  },
+  "170": {
+    "question": "身穿硬壳袍，缩头又缩脑，水面四脚划，岸上慢慢跑。（打一动物）",
+    "answer": "A",
+    "optionA": "乌龟",
+    "optionB": "鳖",
+    "optionC": "螃蟹"
+  },
+  "171": {
+    "question": "身穿黄衣裳，弯弯像月亮，兄弟排成行，个个甜蜜蜜。（打一水果）",
+    "answer": "A",
+    "optionA": "香蕉",
+    "optionB": "芒果",
+    "optionC": "柠檬"
+  },
+  "172": {
+    "question": "一个黑娃娃，肚里装芝麻，轻轻一咬开，流出白浆来。（打一食物）",
+    "answer": "A",
+    "optionA": "芝麻汤圆",
+    "optionB": "黑芝麻糊",
+    "optionC": "芝麻糖"
+  },
+  "173": {
+    "question": "半部春秋反复看（打一字）",
+    "answer": "A",
+    "optionA": "秦",
+    "optionB": "香",
+    "optionC": "炅"
+  },
+  "174": {
+    "question": "守门员（打一字）",
+    "answer": "A",
+    "optionA": "闪",
+    "optionB": "问",
+    "optionC": "们"
+  },
+  "175": {
+    "question": "七十二小时（打一字）",
+    "answer": "A",
+    "optionA": "晶",
+    "optionB": "旧",
+    "optionC": "昌"
+  },
+  "176": {
+    "question": "一口咬住多半截（打一字）",
+    "answer": "A",
+    "optionA": "名",
+    "optionB": "多",
+    "optionC": "夕"
+  },
+  "177": {
+    "question": "八十八（打一字）",
+    "answer": "A",
+    "optionA": "米",
+    "optionB": "木",
+    "optionC": "半"
+  },
+  "178": {
+    "question": "十日十月（打一字）",
+    "answer": "B",
+    "optionA": "明",
+    "optionB": "朝",
+    "optionC": "萌"
+  },
+  "179": {
+    "question": "十个哥哥（打一字）",
+    "answer": "A",
+    "optionA": "克",
+    "optionB": "兄",
+    "optionC": "竟"
+  },
+  "180": {
+    "question": "上边少一半，下边加一半（打一字）",
+    "answer": "A",
+    "optionA": "劣",
+    "optionB": "夯",
+    "optionC": "嘉"
+  },
+  "181": {
+    "question": "上气接下气（打一字）",
+    "answer": "A",
+    "optionA": "乞",
+    "optionB": "氛",
+    "optionC": "汽"
+  },
+  "182": {
+    "question": "四面都是山，山山都相连（打一字）",
+    "answer": "A",
+    "optionA": "田",
+    "optionB": "出",
+    "optionC": "画"
+  },
+  "183": {
+    "question": "五口之家，旁种一树（打一字）",
+    "answer": "A",
+    "optionA": "梧",
+    "optionB": "森",
+    "optionC": "休"
+  },
+  "184": {
+    "question": "左有十八，右有十八，二四得八，一八得八（打一字）",
+    "answer": "A",
+    "optionA": "樊",
+    "optionB": "爻",
+    "optionC": "爿"
+  },
+  "185": {
+    "question": "一只黑狗，不叫不吼（打一字）",
+    "answer": "A",
+    "optionA": "默",
+    "optionB": "犬",
+    "optionC": "哭"
+  },
+  "186": {
+    "question": "一字十三点，难在如何点（打一字）",
+    "answer": "A",
+    "optionA": "汁",
+    "optionB": "斗",
+    "optionC": "汗"
+  },
+  "187": {
+    "question": "一夜又一夜（打一字）",
+    "answer": "A",
+    "optionA": "多",
+    "optionB": "夕",
+    "optionC": "梦"
+  },
+  "188": {
+    "question": "一个人搬两个土（打一字）",
+    "answer": "A",
+    "optionA": "佳",
+    "optionB": "桂",
+    "optionC": "挂"
+  },
+  "189": {
+    "question": "一个礼拜（打一字）",
+    "answer": "A",
+    "optionA": "旨",
+    "optionB": "旦",
+    "optionC": "早"
+  },
+  "190": {
+    "question": "一家十一口（打一字）",
+    "answer": "A",
+    "optionA": "吉",
+    "optionB": "古",
+    "optionC": "合"
+  },
+  "191": {
+    "question": "一只牛（打一字）",
+    "answer": "A",
+    "optionA": "生",
+    "optionB": "午",
+    "optionC": "牛"
+  },
+  "192": {
+    "question": "一大二小（打一字）",
+    "answer": "B",
+    "optionA": "奈",
+    "optionB": "尖",
+    "optionC": "劣"
+  },
+  "193": {
+    "question": "一斗米（打一字）",
+    "answer": "A",
+    "optionA": "料",
+    "optionB": "斗",
+    "optionC": "升"
+  },
+  "194": {
+    "question": "九只鸟（打一字）",
+    "answer": "A",
+    "optionA": "鸠",
+    "optionB": "鸡",
+    "optionC": "鸭"
+  },
+  "195": {
+    "question": "九辆车（打一字）",
+    "answer": "A",
+    "optionA": "轨",
+    "optionB": "连",
+    "optionC": "辇"
+  },
+  "196": {
+    "question": "太阳落到西边。（打一字）",
+    "answer": "A",
+    "optionA": "晒",
+    "optionB": "晾",
+    "optionC": "景"
+  },
+  "197": {
+    "question": "三人一日去观景。（打一字）",
+    "answer": "B",
+    "optionA": "众",
+    "optionB": "春",
+    "optionC": "仨"
+  },
+  "198": {
+    "question": "行字分两边，双土堆中间。（打一字）",
+    "answer": "A",
+    "optionA": "街",
+    "optionB": "衢",
+    "optionC": "径"
+  },
+  "199": {
+    "question": "秀才进门把门关。（打一字）",
+    "answer": "B",
+    "optionA": "闪",
+    "optionB": "闭",
+    "optionC": "闲"
+  },
+  "200": {
+    "question": "西村有衣，东村有谷；组织起来丰衣足食。（打一字）",
+    "answer": "A",
+    "optionA": "裕",
+    "optionB": "裤",
+    "optionC": "粮"
+  },
+  "201": {
+    "question": "一只狗四个口。（打一字）",
+    "answer": "B",
+    "optionA": "吠",
+    "optionB": "器",
+    "optionC": "哭"
+  },
+  "202": {
+    "question": "四张嘴，没头没尾。（打一字）",
+    "answer": "A",
+    "optionA": "田",
+    "optionB": "由",
+    "optionC": "甲"
+  },
+  "203": {
+    "question": "人在云上站。（打一字）",
+    "answer": "A",
+    "optionA": "会",
+    "optionB": "云",
+    "optionC": "仙"
+  },
+  "204": {
+    "question": "手在树上。（打一字）",
+    "answer": "B",
+    "optionA": "休",
+    "optionB": "采",
+    "optionC": "抓"
+  },
+  "205": {
+    "question": "三人同日见。（打一字）",
+    "answer": "A",
+    "optionA": "春",
+    "optionB": "众",
+    "optionC": "晶"
+  },
+  "206": {
+    "question": "上下串通。（打一字）",
+    "answer": "A",
+    "optionA": "卡",
+    "optionB": "串",
+    "optionC": "中"
+  },
+  "207": {
+    "question": "\"床前明月光\"的下一句是？",
+    "answer": "B",
+    "optionA": "低头思故乡",
+    "optionB": "疑是地上霜",
+    "optionC": "春眠不觉晓"
+  },
+  "208": {
+    "question": "\"春眠不觉晓\"出自哪位诗人之手？",
+    "answer": "B",
+    "optionA": "李白",
+    "optionB": "孟浩然",
+    "optionC": "杜甫"
+  },
+  "209": {
+    "question": "\"欲穷千里目，更上一层楼\"描写的是哪座楼？",
+    "answer": "C",
+    "optionA": "黄鹤楼",
+    "optionB": "岳阳楼",
+    "optionC": "鹳雀楼"
+  },
+  "210": {
+    "question": "\"两个黄鹂鸣翠柳\"出自哪首诗？",
+    "answer": "A",
+    "optionA": "《绝句》",
+    "optionB": "《春夜喜雨》",
+    "optionC": "《江畔独步寻花》"
+  },
+  "211": {
+    "question": "\"飞流直下三千尺\"描写的是什么？",
+    "answer": "C",
+    "optionA": "长江",
+    "optionB": "黄河",
+    "optionC": "庐山瀑布"
+  },
+  "212": {
+    "question": "\"清明时节雨纷纷\"的作者是？",
+    "answer": "B",
+    "optionA": "杜甫",
+    "optionB": "杜牧",
+    "optionC": "白居易"
+  },
+  "213": {
+    "question": "\"小荷才露尖尖角\"描写的是哪个季节？",
+    "answer": "B",
+    "optionA": "春",
+    "optionB": "夏",
+    "optionC": "秋"
+  },
+  "214": {
+    "question": "\"遥知兄弟登高处\"描写的是哪个节日？",
+    "answer": "B",
+    "optionA": "中秋节",
+    "optionB": "重阳节",
+    "optionC": "端午节"
+  },
+  "215": {
+    "question": "\"桃花潭水深千尺\"是李白写给谁的诗？",
+    "answer": "B",
+    "optionA": "杜甫",
+    "optionB": "汪伦",
+    "optionC": "孟浩然"
+  },
+  "216": {
+    "question": "\"野火烧不尽\"的下一句是？",
+    "answer": "A",
+    "optionA": "春风吹又生",
+    "optionB": "一岁一枯荣",
+    "optionC": "远芳侵古道"
+  },
+  "217": {
+    "question": "\"举头望明月\"的作者是？",
+    "answer": "C",
+    "optionA": "杜甫",
+    "optionB": "王维",
+    "optionC": "李白"
+  },
+  "218": {
+    "question": "\"慈母手中线\"出自哪首诗？",
+    "answer": "A",
+    "optionA": "《游子吟》",
+    "optionB": "《静夜思》",
+    "optionC": "《登鹳雀楼》"
+  },
+  "219": {
+    "question": "\"千里莺啼绿映红\"描写的是哪里的春景？",
+    "answer": "A",
+    "optionA": "江南",
+    "optionB": "塞北",
+    "optionC": "西域"
+  },
+  "220": {
+    "question": "\"独在异乡为异客\"中的\"异客\"指谁？",
+    "answer": "A",
+    "optionA": "游子",
+    "optionB": "商人",
+    "optionC": "官员"
+  },
+  "221": {
+    "question": "\"儿童散学归来早\"后一句是？",
+    "answer": "A",
+    "optionA": "忙趁东风放纸鸢",
+    "optionB": "也傍桑阴学种瓜",
+    "optionC": "笑问客从何处来"
+  },
+  "222": {
+    "question": "\"海上生明月\"的下一句是？",
+    "answer": "B",
+    "optionA": "月是故乡明",
+    "optionB": "天涯共此时",
+    "optionC": "举杯邀明月"
+  },
+  "223": {
+    "question": "\"少小离家老大回\"的作者是？",
+    "answer": "A",
+    "optionA": "贺知章",
+    "optionB": "王之涣",
+    "optionC": "王昌龄"
+  },
+  "224": {
+    "question": "\"白日依山尽\"的\"尽\"意思是？",
+    "answer": "C",
+    "optionA": "结束",
+    "optionB": "尽头",
+    "optionC": "消失"
+  },
+  "225": {
+    "question": "至圣先师，万世师表。（打一山东历史名人）",
+    "answer": "B",
+    "optionA": "孟子",
+    "optionB": "孔子",
+    "optionC": "墨子"
+  },
+  "226": {
+    "question": "兵家至圣，孙子兵法。（打一山东历史名人）",
+    "answer": "B",
+    "optionA": "孙膑",
+    "optionB": "孙武",
+    "optionC": "吴起"
+  }
+}
